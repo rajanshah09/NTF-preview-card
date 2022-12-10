@@ -19,7 +19,7 @@ body{
     align-items: center;
     justify-content: center;
     max-height: 100vh-10px;
-    width:50%;
+    width:40%;
     padding:50px 0;
     background-color: var(--deep-dark-blue);
     margin:auto;
@@ -30,16 +30,17 @@ body{
     background-color: var(--very-dark-blue);
     border-radius: 20px;
     overflow: hidden;
-    padding:20px;    
+    padding:20px;
+    width:80%;    
 }
 .header{
     color:var(--White);
     padding: 20px 0;
     cursor: pointer;
 }
-.para{
+.para,.leftdays{
     font-family: 'Outfit', sans-serif;
-    font-weight: 600;
+    font-weight: 300;
     color: var(--light-dark-blue);
     font-size:18px;
 }
