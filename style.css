@@ -19,7 +19,7 @@ body{
     align-items: center;
     justify-content: center;
     max-height: 100vh-10px;
-    width:40%;
+    width:30%;
     padding:50px 0;
     background-color: var(--deep-dark-blue);
     margin:auto;
@@ -31,7 +31,7 @@ body{
     border-radius: 20px;
     overflow: hidden;
     padding:20px;
-    width:80%;    
+    width:70%;    
 }
 .header{
     color:var(--White);
